@@ -1,0 +1,1 @@
+En esta lección mostramos distintos enfoques para representar y operar con números enteros (negativos y positivos).
