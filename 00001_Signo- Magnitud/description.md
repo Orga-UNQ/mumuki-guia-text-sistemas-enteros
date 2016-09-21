@@ -17,4 +17,9 @@ En un sistema **Signo-Magnitud de n bits**, denotado **SM(n)**, la magnitud pued
 
 Veamos un ejemplo, interpretando la cadena ```01010101``` en SM(8):
 1. Signo: positivo (```0```)
-2. *Magnitud = Ibss(1010101)=2^6+2^4+2^2+2^0=64+16+4+1*
+2. Magnitud = Ibss(1010101) = 2^6 + 2^4 + 2^2 + 2^0 = 64 + 16 + 4 + 1
+
+
+### A trabajar
+
+¿Cuál es la interpretación de la cadena ```10000001```?
