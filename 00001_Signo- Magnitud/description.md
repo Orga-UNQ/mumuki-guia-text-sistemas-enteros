@@ -9,3 +9,12 @@ Por ejemplo, si se tiene cadenas de 8 bits, podría definirse que el signo está
 | Sig | Magnitud |
 |-----|-----|
 | 1 bit | 7 bits |
+
+
+### Interpretación en Signo Magnitud
+
+En un sistema **Signo-Magnitud de n bits**, denotado **SM(n)**, la magnitud puede verse como una cadena en **BSS(n-1)**, y entonces puede interpretarse de esa manera. 
+
+Veamos un ejemplo, interpretando la cadena ```01010101``` en SM(8):
+1. Signo: positivo (```0```)
+2. *Magnitud = Ibss(1010101)=2^6+2^4+2^2+2^0=64+16+4+1*
